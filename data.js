@@ -297,7 +297,7 @@ window.FLU_DATA = {
       "population": "全年齡；全球人口；人數",
       "definition": "疫情相關死亡模型估計",
       "limit": "大流行的首年模型估計，不能和WHO季節性年度呼吸道死亡範圍直接比較；此處未建立全球感染人數。",
-      "published": "2019-06-11",
+      "published": "2019-06-11（最後審閱）",
       "sources": [
         "cdc_pandemic"
       ]
@@ -322,7 +322,7 @@ window.FLU_DATA = {
       "population": "全年齡；美國人口；人數",
       "definition": "H1N1病例估計；H1N1死亡估計",
       "limit": "大流行專用估計；不要拼接為2010年起季節性CSV相同模型。",
-      "published": "2019-06-11",
+      "published": "2019-06-11（最後審閱）",
       "sources": [
         "cdc_pandemic"
       ]
@@ -523,7 +523,7 @@ window.FLU_DATA = {
       "population": "通報人類個案，全年齡；1997年被確診的人類H5N1病例",
       "definition": "人類H5N1確診個案；確診個案死亡",
       "limit": "禽流感跨物種事件，與一般季節性流感分開；6/18不能推廣為所有H5N1感染的死亡風險。",
-      "published": "2004-01-13 / 未明列",
+      "published": "2004-01-13 / 2024-04-30",
       "sources": [
         "hk_1997",
         "cdc_bird_history"
@@ -734,7 +734,7 @@ window.FLU_DATA = {
       "id": "cdc_pandemic",
       "title": "美國 CDC · 2009 H1N1 Pandemic (H1N1pdm09 virus)",
       "url": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/2009-h1n1-pandemic.html",
-      "published": "2019-06-11",
+      "published": "2019-06-11（最後審閱）",
       "note": ""
     },
     {
@@ -783,7 +783,7 @@ window.FLU_DATA = {
       "id": "cdc_bird_history",
       "title": "美國 CDC · 1960–1999 Highlights in the History of Avian Influenza Timeline",
       "url": "https://www.cdc.gov/bird-flu/avian-timeline/1960-1999.html",
-      "published": "頁面未明列",
+      "published": "2024-04-30",
       "note": ""
     },
     {
@@ -818,7 +818,7 @@ window.FLU_DATA = {
       "id": "cdc_types",
       "title": "美國 CDC · Types of Influenza Viruses",
       "url": "https://www.cdc.gov/flu/about/viruses-types.html",
-      "published": "頁面未明列",
+      "published": "2025-09-26",
       "note": ""
     },
     {
